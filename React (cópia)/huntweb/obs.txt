@@ -1,0 +1,8 @@
+Utilizado o npm i -g create-react-app para instalar essa biblioteca de forma global no computar
+para todos os navegadores entender 
+
+Usar o create-react-app huntweb
+para criar a pasta
+
+para rodar a api
+npm run dev 
